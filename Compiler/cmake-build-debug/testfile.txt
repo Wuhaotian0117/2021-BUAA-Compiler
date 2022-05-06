@@ -1,0 +1,6 @@
+int main() {
+    int a = 5;
+    printf("it is %d",a+2);
+    printf("\nhello world");
+    return 0;
+}
